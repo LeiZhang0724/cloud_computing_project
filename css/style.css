@@ -1153,7 +1153,7 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
     background: url(../images/img2.jpg)no-repeat 0px -60px;
 }
 }
-@media(max-width:1080px){
+@media(max-width:1200px){
 .banner-text h1 {
   font-size: 3.6em;
 }
